@@ -1,0 +1,25 @@
+.site {
+  background-color: #c2c6fe;
+}
+a {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  color: green;
+  font-size: 10pt;
+  padding-left: 50px;
+}
+p {
+  font-family: Arial;
+  font-size: 11pt;
+  color: green;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+}
+h1 {
+  color: purple;
+}
