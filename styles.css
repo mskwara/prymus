@@ -1,6 +1,7 @@
-.site {
+body {
   background-color: #c2c6fe;
 }
+
 a {
   color: red;
   font-weight: bold;
@@ -22,4 +23,15 @@ li {
 }
 h1 {
   color: purple;
+}
+.image {
+  float: right;
+  margin-bottom: 10px;
+}
+.left {
+  float: left;
+}
+img {
+  width: 100%;
+  float: left;
 }
